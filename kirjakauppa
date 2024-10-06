@@ -1,0 +1,18 @@
+{ 
+  "kirjat" : { 
+    "-MGvq69vFRNAi6N4RPPf" : { 
+      "nimi" : "Anna Karenina", 
+      "author" : "Leo Tolstoy", 
+      "year" : "1877", 
+      "isbn" : "9780140864854", 
+      "hinta" : "13.5" 
+    }, 
+    "-MGvqCptPhR1BMdNN2IQ" : { 
+      "nimi" : "The Haunting of Hill House", 
+      "author" : "Shirley Jackson", 
+      "year" : "1992", 
+      "isbn" : "9780141191447", 
+      "hinta" : "9.75" 
+    } 
+  } 
+}
